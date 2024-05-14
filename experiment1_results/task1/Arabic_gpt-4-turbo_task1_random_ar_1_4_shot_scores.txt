@@ -1,0 +1,9 @@
+gpt-4-turbo Task task1_random_ar_1.csv Few-Shot Results
+------------------------------
+Precision: 0.52
+Recall: 0.94
+F1-Score: 0.67
+Accuracy: 0.73
+
+Confusion Matrix
+{'TP': 338, 'FP': 309, 'TN': 561, 'FN': 23}
