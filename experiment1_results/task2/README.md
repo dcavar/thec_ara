@@ -1,13 +1,27 @@
-# The Hoosier Ellipsis Corpus (THEC) - Arabic Sub-corpus (thec_ara): Experiment 1 Results - Task 2
+# The Hoosier Ellipsis Corpus (THEC) - Arabic Sub-corpus (thec_ara): Experiment 1 Results Task 2
 
-(C) 2024 [Damir Cavar], [Billy Dickson], [NLP-Lab]
+(C) 2024 [Damir Cavar], Muhammad Abdo, [Billy Dickson], [NLP-Lab]
+
+Created: 2024-05-14 by [Damir Cavar]
+
+Last change: 2024-05-14 by [Damir Cavar]
+
+
+- [The Hoosier Ellipsis Corpus](https://github.com/dcavar/hoosierellipsiscorpus)
+- [Arabic Sub-corpus](https://github.com/dcavar/thec_ara)
+
+
+The Task 2 data consists of ellipsis constructions in Russian. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
+
 
 The data in these folders is related to the experiments described in Cavar et al. (2024) *Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches*. If you use this data, please cite the following papers.
 
-- [The Hoosier Ellipsis Corpus](https://github.com/dcavar/hoosierellipsiscorpus) - [Arabic Sub-corpus](https://github.com/dcavar/thec_ara)
 
 
 
+## Citation
+
+Please use the following snippet to cite our work.
 
 ```bibtex
 @inproceedings{cavar-etal-2024-typology,
